@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# AWS credentials
+.aws/
+
+# Logs
+*.log
+
+# Ignore system files
+.DS_Store
+
+# Virtual environments
+venv/
+env/
