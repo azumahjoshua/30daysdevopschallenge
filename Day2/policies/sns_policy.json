@@ -1,0 +1,10 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": "sns:*",
+            "Resource": "arn:aws:sns:us-east-1:913524920824:gd_topic"
+        }
+    ]
+}
